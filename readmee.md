@@ -23,11 +23,9 @@ Must add for every readme to get authencity and look
 * Authors and acknowledgment - apprecaition to the contributed person
 * License - how it is licensed
 * Project status - status of the project
-# SmartOCR
-Smart Optical Character Recognition helps to extract text from images which uses specified preprocessing for certain types of images.
 ***
 ## Installation of required packages
-[Dataset](https://happiestminds-my.sharepoint.com/:f:/r/personal/mahaveer_jain_happiestminds_com/Documents/SmartOCR?csf=1&web=1&e=hF60cp "Onedrive Link for dataset")
+[Dataset]("Link for dataset")
 ---
 ![imagename](imagelink)
 
