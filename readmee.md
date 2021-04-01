@@ -17,7 +17,7 @@ Must add for every readme to get authencity and look
 * Usage(Running the code) - short examples to run
 * Deployment*
 * Built With -
-* Support - help support by @mahaveer @vivek @manoj @surenther
+* Support - help support by @mahaveer
 * Roadmap - ideasof releases in future
 * Contributing - Open to contribution
 * Authors and acknowledgment - apprecaition to the contributed person
@@ -49,5 +49,5 @@ write the code here and the above is have to know
 :+1: doing great
 
 ### FAQ
-Q : What is SmartOCR ?<br>
+Q : What is Readme ?<br>
 A : No idea 
